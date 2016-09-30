@@ -54,7 +54,11 @@ img.center {
 }
 #coming-soon h1{
 	text-align: center;
-	font-size: 35px;
+	font-size: 80px;
+}
+#coming-soon h3{
+	text-align: left;
+	color: lightgray;
 }
 #coming-soon img{
     clear: both;
